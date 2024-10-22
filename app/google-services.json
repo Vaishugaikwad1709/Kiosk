@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590932183753",
+    "project_id": "kiosk-launcher-67bc9",
+    "storage_bucket": "kiosk-launcher-67bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590932183753:android:ef77e4f1fc7d201b961b18",
+        "android_client_info": {
+          "package_name": "com.osamaalek.kiosklauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590932183753-7j06qeag0tksh5ur6rva637ncj7kn93k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCszA01Wg1-Nep5-ZDvAyIre9OZvzOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590932183753-7j06qeag0tksh5ur6rva637ncj7kn93k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
